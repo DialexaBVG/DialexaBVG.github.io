@@ -1,0 +1,26 @@
+.custom-calendar {
+    box-shadow: 0 1em 3em rgba(85, 72, 45, 0.2);
+    width: 50%;
+    position: absolute;
+    margin-top: -05%;
+    left: 25%;
+    
+  }
+  
+  .custom-today-day {
+    color: black !important;
+  }
+  
+
+
+.Calendar__day.-selected,
+.Calendar__day.-selectedStart,
+.Calendar__day.-selectedEnd {
+  background: #DAB773 !important;
+  color: #fff;
+}
+
+
+  .custom-today-day::after {
+    visibility: hidden; /* hide small border under the text */
+  }

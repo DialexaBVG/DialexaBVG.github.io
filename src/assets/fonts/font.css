@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'TiemposHeaadline';
+    src: url('TiemposHeadline-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-Medium.ttf') format('truetype');
+    font-weight:normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-SemiBold.ttf') format('truetype');
+    font-weight:500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Mulish';
+    src: url('Mulish-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('Barlow-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

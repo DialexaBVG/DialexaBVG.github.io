@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+}
+
+.nav {
+    background-color: #f4ead74D;
+    height: 85px;
+    font-family: 'Mulish', sans-serif;
+}
+
+.link, .link:visited {
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.link:active {
+    color: #d6b064;
+}
+
+.disabled, .disabled:visited {
+    padding: 10px;
+    color: #00000066;
+    text-decoration: none;
+}
+
+.boxes {
+    width: 200px;
+}
+
+.name, .name:visited {
+    color: #d6b064;
+    float: right;
+    text-decoration: bold;
+    margin-left: auto;
+    text-decoration: none;
+}
+
+.logo {
+    height: 35px;
+    width: auto;
+    margin-top: -7px;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-between;
+}
