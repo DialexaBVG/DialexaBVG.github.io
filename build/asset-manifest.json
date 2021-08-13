@@ -1,17 +1,40 @@
 {
   "files": {
-    "main.js": "/static/js/main.aace3ef1.chunk.js",
-    "main.js.map": "/static/js/main.aace3ef1.chunk.js.map",
+    "main.css": "/static/css/main.d34ae94e.chunk.css",
+    "main.js": "/static/js/main.7259f753.chunk.js",
+    "main.js.map": "/static/js/main.7259f753.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.af606df9.js",
     "runtime-main.js.map": "/static/js/runtime-main.af606df9.js.map",
-    "static/js/2.c0e9b104.chunk.js": "/static/js/2.c0e9b104.chunk.js",
-    "static/js/2.c0e9b104.chunk.js.map": "/static/js/2.c0e9b104.chunk.js.map",
+    "static/css/2.10852e48.chunk.css": "/static/css/2.10852e48.chunk.css",
+    "static/js/2.6b4e9273.chunk.js": "/static/js/2.6b4e9273.chunk.js",
+    "static/js/2.6b4e9273.chunk.js.map": "/static/js/2.6b4e9273.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.c0e9b104.chunk.js.LICENSE.txt": "/static/js/2.c0e9b104.chunk.js.LICENSE.txt"
+    "static/css/2.10852e48.chunk.css.map": "/static/css/2.10852e48.chunk.css.map",
+    "static/css/main.d34ae94e.chunk.css.map": "/static/css/main.d34ae94e.chunk.css.map",
+    "static/js/2.6b4e9273.chunk.js.LICENSE.txt": "/static/js/2.6b4e9273.chunk.js.LICENSE.txt",
+    "static/media/BVGLogo.7b335988.svg": "/static/media/BVGLogo.7b335988.svg",
+    "static/media/BVGLogoShadow.f42c470e.svg": "/static/media/BVGLogoShadow.f42c470e.svg",
+    "static/media/BackwardsButton.98e8aa69.svg": "/static/media/BackwardsButton.98e8aa69.svg",
+    "static/media/font.css": "/static/media/TiemposHeadline-Regular.18faad17.ttf",
+    "static/media/FadedBackwardsButton.fb0ef4b3.svg": "/static/media/FadedBackwardsButton.fb0ef4b3.svg",
+    "static/media/ForwardButton.27a9c8c8.svg": "/static/media/ForwardButton.27a9c8c8.svg",
+    "static/media/beargif.6c190641.gif": "/static/media/beargif.6c190641.gif",
+    "static/media/gorilla.77508d58.gif": "/static/media/gorilla.77508d58.gif",
+    "static/media/greyBattle.577efc39.png": "/static/media/greyBattle.577efc39.png",
+    "static/media/triBear.6cdced9c.svg": "/static/media/triBear.6cdced9c.svg",
+    "static/media/triGorilla.41362bf1.svg": "/static/media/triGorilla.41362bf1.svg",
+    "static/media/trophy.e39ef046.svg": "/static/media/trophy.e39ef046.svg",
+    "static/media/wireBattle.3a65505d.png": "/static/media/wireBattle.3a65505d.png",
+    "static/media/wireBear.ab652ac5.png": "/static/media/wireBear.ab652ac5.png",
+    "static/media/wireGorilla.30f3989e.png": "/static/media/wireGorilla.30f3989e.png",
+    "static/media/wireHands.cba10612.png": "/static/media/wireHands.cba10612.png",
+    "static/media/wireNew.1bdb77d1.png": "/static/media/wireNew.1bdb77d1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.af606df9.js",
-    "static/js/2.c0e9b104.chunk.js",
-    "static/js/main.aace3ef1.chunk.js"
+    "static/css/2.10852e48.chunk.css",
+    "static/js/2.6b4e9273.chunk.js",
+    "static/css/main.d34ae94e.chunk.css",
+    "static/js/main.7259f753.chunk.js"
   ]
 }
